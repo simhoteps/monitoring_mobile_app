@@ -7,18 +7,17 @@ To clone and run this application, you'll need Git, Node.js and npm
 ```
 
 Clone this repository
-$ git clone https://github.com/simhoteps/react-redux-redux_saga-map
+$ git clone https://github.com/simhoteps/monitoring_mobile_app.git
 
 Go into the repository
-$ cd react-redux-redux_saga-map
+$ cd monitoring_mobile_app
 
 Install dependencies
 $ npm install
 
 Run the app
-$ npm run ios
-$ npm run android
-$ npm run web
+$ npm start
+
 
 ```
 
